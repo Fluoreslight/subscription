@@ -1,6 +1,6 @@
 # OMOFUN
 
-存在 3 规则组 - [com.ksf.yyx](/src/apps/com.ksf.yyx.ts)
+存在 3 规则组 - [com.example.gyf.uaiu](/src/apps/com.example.gyf.uaiu.ts)
 
 ## 开屏广告
 
